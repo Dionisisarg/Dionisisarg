@@ -26,6 +26,6 @@ Welcome to my GitHub profile! I'm passionate about software development and data
  - CSS
  - MySQL
 
-## GitHub Stats 📊
+## My GitHub Stats 📊
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dionisisarg&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dionisisarg)](https://github.com/Dionisisarg/github-readme-stats)
