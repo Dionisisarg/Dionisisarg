@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hi there, I'm Dionisis Marios Argyros 👋
 
-<!--
-**Dionisisarg/Dionisisarg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about software development and data analysis.
 
-Here are some ideas to get you started:
+## About Me 👨‍💻
+- 🌍 Location: Athens, Greece
+- 🎓 Education:  MEng Computer Engineering and Informatics Department at University of Patras.
+- 📧 Contact: dionisisarg@hotmail.com
+- 📫 LinkedIN: https://www.linkedin.com/in/dionisis-marios-argyros/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Technical Skills 🛠️
+- Programming Languges
+- Code Proficiency
+- Data Analysis Tools
+- Big Data Technologies
+- Web Development
+
+
+ ## Languages 💻
+ - Java
+ - Python
+ - JavaScript
+ - PHP
+ - HTML
+ - CSS
+ - MySQL
+
+## GitHub Stats 📊
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dionisisarg&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dionisisarg)](https://github.com/Dionisisarg/github-readme-stats)
